@@ -1,0 +1,8 @@
+body {
+  background-color: pink;
+  font-family: "cutie"; 
+}
+@font-face {
+    font-family: "cutie";
+    src: url("CutiePatootie-Rgjv.ttf") format("truetype");
+}
